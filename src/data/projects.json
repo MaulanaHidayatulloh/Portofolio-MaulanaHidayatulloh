@@ -11,7 +11,7 @@
     "imageSrc": "projects/bioskop.png",
     "description": "This is a cinema website project for buying cinema tickets online.",
     "skills": ["HTML", "CSS", "JS"],
-    "source": "https://www.github.com"
+    "source": "https://bioskop-turu.netlify.app/"
   },
   {
     "title": "Tomorrow's Affairs",
