@@ -1,0 +1,23 @@
+[
+  {
+    "role": "SMPN 205 JAKARTA",
+    "organisation": "Junior High School",
+    "startDate": "2015",
+    "endDate": "2018",
+    "imageSrc": "history/smpn205jakarta.png"
+  },
+  {
+    "role": "SMAN 94 JAKARTA",
+    "organisation": "Senior High School",
+    "startDate": "2018",
+    "endDate": "2021",
+    "imageSrc": "history/sman94jakarta.png"
+  },
+  {
+    "role": "UNIVERSITAS GUNADARMA",
+    "organisation": "Bachelor Of Informatics",
+    "startDate": "2021",
+    "endDate": "Present",
+    "imageSrc": "history/universitas_gunadarma.png"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "title": "kitchen room",
+    "imageSrc": "projects/Blender.png",
+    "description": "This is a kitchen room project made in Blender version 3.6.",
+    "skills": ["Blender"],
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project Bioskop",
+    "imageSrc": "projects/bioskop.png",
+    "description": "This is a cinema website project for buying cinema tickets online.",
+    "skills": ["HTML", "CSS", "JS"],
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Tomorrow's Affairs",
+    "imageSrc": "projects/figma.png",
+    "description": "This is a tomorrow's affairs project made with Figma.com.",
+    "skills": ["Figma"],
+    "source": "https://www.figma.com/file/XexkJJXutEHz6GJaiyHEnL/Tomorrow's-Affairs?type=design&node-id=0%3A1&mode=design&t=ywigJHzUujUA6Hy7-1"
+  }
+]
